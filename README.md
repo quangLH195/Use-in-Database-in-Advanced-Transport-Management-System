@@ -1,0 +1,2 @@
+# Use-in-Database-in-Advanced-Transport-Management-System-Interface-Using-XML
+XML extensible Markup Language has emerged as an extension of HTML in order to increase flexibility in use of Internet data. One of the big advantages is to separate data context. This allows the collecting information once and then uses them in various ways. The connection between XML and database systems is realised easily because both store data in a structured way.
